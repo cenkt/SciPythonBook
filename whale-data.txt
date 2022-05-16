@@ -1,0 +1,16 @@
+Name                       Population     Mass /tonnes
+Bowheadwhale                     9000            60
+Bluewhale                       20000           120
+Finwhale                       100000            70
+Humpbackwhale                   80000            30
+Graywhale                       26000            35
+Atlanticwhite-sideddolphin    250000             0.235
+Pacificwhite-sideddolphin    1000000             0.15
+Killerwhale                    100000             4.5
+Narwhal                          25000             1.5
+Beluga                          100000             1.5
+Spermwhale                    2000000            50
+Baiji                               13             0.13
+NorthAtlanticrightwhale         300            75
+NorthPacificrightwhale          200            80
+Southernrightwhale              7000            70
