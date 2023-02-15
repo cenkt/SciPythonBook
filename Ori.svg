@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="478" height="600" style="background: #000000">
+<circle cx="328.0" cy="234.5" r="1.8" stroke="none" fill="#ffffff" name="  1Pi 3Ori"/>
+<circle cx="324.9" cy="207.2" r="1.0" stroke="none" fill="#ffffff" name="  2Pi 2Ori"/>
+<circle cx="324.0" cy="253.8" r="1.3" stroke="none" fill="#ffffff" name="  3Pi 4Ori"/>
+<circle cx="316.3" cy="132.3" r="1.0" stroke="none" fill="#ffffff" name="  4Omi1Ori"/>
+<circle cx="317.7" cy="297.6" r="1.0" stroke="none" fill="#ffffff" name="  5    Ori"/>
+<circle cx="314.9" cy="298.6" r="1.3" stroke="none" fill="#ffffff" name="  8Pi 5Ori"/>
+<circle cx="310.8" cy="171.9" r="1.0" stroke="none" fill="#ffffff" name="  6    Ori"/>
+<circle cx="311.0" cy="189.9" r="1.0" stroke="none" fill="#ffffff" name="  7Pi 1Ori"/>
+<circle cx="304.8" cy="142.8" r="1.0" stroke="none" fill="#ffffff" name="  9Omi2Ori"/>
+<circle cx="301.2" cy="309.1" r="1.0" stroke="none" fill="#ffffff" name=" 10Pi 6Ori"/>
+<circle cx="278.5" cy="116.8" r="1.0" stroke="none" fill="#ffffff" name=" 11    Ori"/>
+<circle cx="270.9" cy="200.0" r="1.0" stroke="none" fill="#ffffff" name=" 13    Ori"/>
+<circle cx="270.4" cy="213.7" r="1.0" stroke="none" fill="#ffffff" name=" 14    Ori"/>
+<circle cx="265.5" cy="195.0" r="1.0" stroke="none" fill="#ffffff" name=" 16    Ori"/>
+<circle cx="262.5" cy="114.3" r="1.0" stroke="none" fill="#ffffff" name=" 15    Ori"/>
+<circle cx="253.8" cy="293.5" r="1.0" stroke="none" fill="#ffffff" name=" 17Rho Ori"/>
+<circle cx="249.2" cy="442.5" r="4.9" stroke="none" fill="#ffffff" name=" 19Bet Ori"/>
+<circle cx="243.7" cy="174.0" r="1.0" stroke="none" fill="#ffffff" name=" 18    Ori"/>
+<circle cx="239.7" cy="406.1" r="1.4" stroke="none" fill="#ffffff" name=" 20Tau Ori"/>
+<circle cx="234.8" cy="297.4" r="1.0" stroke="none" fill="#ffffff" name=" 21    Ori"/>
+<circle cx="226.5" cy="328.6" r="1.0" stroke="none" fill="#ffffff" name=" 22    Ori"/>
+<circle cx="222.9" cy="284.1" r="1.0" stroke="none" fill="#ffffff" name=" 23    Ori"/>
+<circle cx="219.2" cy="420.6" r="1.0" stroke="none" fill="#ffffff" name=" 29    Ori"/>
+<circle cx="217.7" cy="321.5" r="1.0" stroke="none" fill="#ffffff" name=" 27    Ori"/>
+<circle cx="217.7" cy="356.6" r="1.6" stroke="none" fill="#ffffff" name=" 28Eta Ori"/>
+<circle cx="216.8" cy="308.1" r="1.0" stroke="none" fill="#ffffff" name=" 25Psi1Ori"/>
+<circle cx="215.4" cy="244.5" r="3.4" stroke="none" fill="#ffffff" name=" 24Gam Ori"/>
+<circle cx="210.0" cy="290.5" r="1.0" stroke="none" fill="#ffffff" name=" 30Psi2Ori"/>
+<circle cx="200.7" cy="346.9" r="1.0" stroke="none" fill="#ffffff" name=" 31    Ori"/>
+<circle cx="197.2" cy="250.2" r="1.0" stroke="none" fill="#ffffff" name=" 32    Ori"/>
+<circle cx="195.8" cy="287.7" r="1.0" stroke="none" fill="#ffffff" name=" 33    Ori"/>
+<circle cx="193.3" cy="330.1" r="1.0" stroke="none" fill="#ffffff" name=" 34Del Ori"/>
+<circle cx="193.3" cy="329.9" r="2.8" stroke="none" fill="#ffffff" name=" 34Del Ori"/>
+<circle cx="193.5" cy="427.6" r="1.0" stroke="none" fill="#ffffff" name=" 36Ups Ori"/>
+<circle cx="187.1" cy="132.7" r="1.0" stroke="none" fill="#ffffff" name=" 35    Ori"/>
+<circle cx="185.9" cy="281.0" r="1.0" stroke="none" fill="#ffffff" name=" 38    Ori"/>
+<circle cx="184.2" cy="200.3" r="1.0" stroke="none" fill="#ffffff" name=" 37Phi1Ori"/>
+<circle cx="183.2" cy="194.0" r="1.5" stroke="none" fill="#ffffff" name=" 39Lam Ori"/>
+<circle cx="183.2" cy="194.0" r="1.0" stroke="none" fill="#ffffff" name=" 39Lam Ori"/>
+<circle cx="182.3" cy="378.5" r="1.0" stroke="none" fill="#ffffff" name=" 42    Ori"/>
+<circle cx="182.7" cy="398.7" r="1.0" stroke="none" fill="#ffffff" name=" 41The1Ori"/>
+<circle cx="182.7" cy="398.7" r="1.0" stroke="none" fill="#ffffff" name=" 41The1Ori"/>
+<circle cx="182.7" cy="398.7" r="1.0" stroke="none" fill="#ffffff" name=" 41The1Ori"/>
+<circle cx="182.7" cy="398.7" r="1.0" stroke="none" fill="#ffffff" name=" 41The1Ori"/>
+<circle cx="182.4" cy="398.3" r="1.0" stroke="none" fill="#ffffff" name=" 43The2Ori"/>
+<circle cx="182.2" cy="391.4" r="2.2" stroke="none" fill="#ffffff" name=" 44Iot Ori"/>
+<circle cx="181.5" cy="378.2" r="1.0" stroke="none" fill="#ffffff" name=" 45    Ori"/>
+<circle cx="179.7" cy="345.4" r="3.3" stroke="none" fill="#ffffff" name=" 46Eps Ori"/>
+<circle cx="177.5" cy="203.1" r="1.0" stroke="none" fill="#ffffff" name=" 40Phi2Ori"/>
+<circle cx="171.5" cy="353.8" r="1.2" stroke="none" fill="#ffffff" name=" 48Sig Ori"/>
+<circle cx="170.1" cy="276.0" r="1.0" stroke="none" fill="#ffffff" name=" 47Ome Ori"/>
+<circle cx="171.1" cy="428.9" r="1.0" stroke="none" fill="#ffffff" name=" 49    Ori"/>
+<circle cx="164.9" cy="334.9" r="3.0" stroke="none" fill="#ffffff" name=" 50Zet Ori"/>
+<circle cx="164.9" cy="334.9" r="1.0" stroke="none" fill="#ffffff" name=" 50Zet Ori"/>
+<circle cx="159.4" cy="313.3" r="1.0" stroke="none" fill="#ffffff" name=" 51    Ori"/>
+<circle cx="141.8" cy="242.9" r="1.0" stroke="none" fill="#ffffff" name=" 52    Ori"/>
+<circle cx="142.7" cy="450.0" r="2.9" stroke="none" fill="#ffffff" name=" 53Kap Ori"/>
+<circle cx="131.0" cy="424.4" r="1.0" stroke="none" fill="#ffffff" name=" 55    Ori"/>
+<circle cx="127.2" cy="307.8" r="1.0" stroke="none" fill="#ffffff" name=" 56    Ori"/>
+<circle cx="124.9" cy="50.0" r="1.0" stroke="none" fill="#ffffff" name=" 54Chi1Ori"/>
+<circle cx="123.0" cy="57.2" r="1.0" stroke="none" fill="#ffffff" name=" 57    Ori"/>
+<circle cx="118.9" cy="229.3" r="4.5" stroke="none" fill="#ffffff" name=" 58Alp Ori"/>
+<circle cx="107.9" cy="307.9" r="1.0" stroke="none" fill="#ffffff" name=" 59    Ori"/>
+<circle cx="106.5" cy="325.9" r="1.0" stroke="none" fill="#ffffff" name=" 60    Ori"/>
+<circle cx="96.4" cy="197.5" r="1.0" stroke="none" fill="#ffffff" name=" 61Mu  Ori"/>
+<circle cx="97.1" cy="57.7" r="1.0" stroke="none" fill="#ffffff" name=" 64    Ori"/>
+<circle cx="96.0" cy="51.6" r="1.0" stroke="none" fill="#ffffff" name=" 62Chi2Ori"/>
+<circle cx="87.2" cy="257.0" r="1.0" stroke="none" fill="#ffffff" name=" 63    Ori"/>
+<circle cx="87.0" cy="274.8" r="1.0" stroke="none" fill="#ffffff" name=" 66    Ori"/>
+<circle cx="82.0" cy="125.5" r="1.0" stroke="none" fill="#ffffff" name=" 67Nu  Ori"/>
+<circle cx="71.4" cy="56.0" r="1.0" stroke="none" fill="#ffffff" name=" 68    Ori"/>
+<circle cx="68.9" cy="106.4" r="1.0" stroke="none" fill="#ffffff" name=" 69    Ori"/>
+<circle cx="68.1" cy="133.1" r="1.0" stroke="none" fill="#ffffff" name=" 70Xi  Ori"/>
+<circle cx="62.4" cy="64.5" r="1.0" stroke="none" fill="#ffffff" name=" 71    Ori"/>
+<circle cx="58.5" cy="106.0" r="1.0" stroke="none" fill="#ffffff" name=" 72    Ori"/>
+<circle cx="55.5" cy="156.1" r="1.0" stroke="none" fill="#ffffff" name=" 73    Ori"/>
+<circle cx="53.2" cy="159.9" r="1.0" stroke="none" fill="#ffffff" name=" 74    Ori"/>
+<circle cx="50.0" cy="192.6" r="1.0" stroke="none" fill="#ffffff" name=" 75    Ori"/>
+</svg>
